@@ -1,11 +1,11 @@
 {
-  "title": " **Welcome to Our Server** ",
+  "title": " **Welcome ${member} to Our Server** ",
   "description": " <a:diamond:859462733233782815>┃**Read** <#1149279682257236021> **and follow them.** \n \n <a:diamond:859462733233782815> ┃**Read** <#1149279685268754502> **for server announcement.** \n \n <a:diamond:859462733233782815> ┃**Head towards**<#1149279694840147978>** for chatting.** \n \n <a:Tick:859440536149557258> **Invite Link**<a:Tick:859440536149557258> https://discord.gg/BsdfHF6r2M",
   "image": "https://media.discordapp.net/attachments/1230408029191540807/1230408721667199016/my.gif?ex=6633366b&is=6620c16b&hm=c6f28cf9ec49c56e8d5b984402f5bb7b33dd5bf78fd0dade848dcc983a41609f&=",
   "footer": "By ig.billo",
   "color": "#4c0385",
   "footerURL": "https://media.discordapp.net/attachments/1230408029191540807/1230408760342614036/1660290470257jpg_112130.jpg?ex=66333674&is=6620c174&hm=d85e3266710f7635d23af2f4d69720dfb072432e943a9457ae258ef880c72ca5&=&format=webp&width=452&height=452",
-  "thumbnail": member.user.displayAvatarURL({ dynamic: true, size: 128 }),
+  "thumbnail": "https://media.discordapp.net/attachments/1230408029191540807/1230413860763209759/standard_6.gif?ex=66333b34&is=6620c634&hm=8a09d721fb6ac32fc548dfaa212201673ca2fe2bd4b9f3dbfc5c69bb2d8f495b&=",
   "authorName": "BilloXD",
   "authorURL": "https://cdn.discordapp.com/attachments/1227178793442218014/1230187311354875985/284121503863fab16d97080455491413.jpg?ex=66326836&is=661ff336&hm=22e7cf78a16bf2e84a080e471dbf5599ed1ec094ab9a3727347a993b2a392632&",
   "authorIcon": "https://media.discordapp.net/attachments/1230408029191540807/1230408760342614036/1660290470257jpg_112130.jpg?ex=66333674&is=6620c174&hm=d85e3266710f7635d23af2f4d69720dfb072432e943a9457ae258ef880c72ca5&=&format=webp&width=452&height=452"
