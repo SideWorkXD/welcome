@@ -1,6 +1,6 @@
 {
-  "title": "Hello This is Title",
-  "description": " ┃**Read** <#1149279682257236021> **and follow them.**  \n  ┃**Read** <#1149279685268754502> **for server announcement.** \n ┃**Head towards**<#1149279694840147978> **for chatting.**   **Invite Link** https://discord.gg/BsdfHF6r2M",
+  "title": " **Welcome ${member.user.username} to Our Server** ",
+  "description": " <a:fast_arrow:758009786078855339>┃**Read** <#1149279682257236021> **and follow them.** \n <a:fast_arrow:758009786078855339> ┃**Read** <#1149279685268754502> **for server announcement.** \n <a:fast_arrow:758009786078855339> ┃**Head towards**<#1149279694840147978> **for chatting.** \n <a:Tick:859440536149557258> **Invite Link**<a:Tick:859440536149557258> https://discord.gg/BsdfHF6r2M",
   "image": "https://cdn.discordapp.com/attachments/1227178793442218014/1230209748549505195/BOT.png?ex=66327d1c&is=6620081c&hm=d4dfbeb5239df7adde83b318414a52e8f7e647e36b6155747b826389e96ba131&",
   "footer": "This is Footer",
   "color": "#FFFFFF",
