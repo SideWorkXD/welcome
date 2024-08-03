@@ -115,7 +115,7 @@ module.exports = {
            
             const { title, description, image, footer, color, footerURL, thumbnail, authorName, authorURL, authorIcon } = messageData;
 
-            const welcomeMessage = `Hello ${member}!`;
+            const welcomeMessage = `<a:welcome:1261722772032323714> **Welcome ${member} to __${member.guild.name}__** <a:welcome:1261722772032323714>`;
             const welcomeMessageDm = `💝 This message has been sent from** ${member.guild.name}!**`;
 
             const embed = new EmbedBuilder()
